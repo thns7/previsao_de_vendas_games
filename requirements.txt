@@ -1,0 +1,11 @@
+# Dependências do projeto (notebook + aplicação Streamlit)
+# scikit-learn está fixado porque modelo/modelo.pkl foi gerado com esta versão.
+# Se usar outra versão, rode `python train_model.py` para regerar o arquivo.
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+scikit-learn==1.8.0
+statsmodels>=0.14
+jupyter>=1.0
