@@ -84,6 +84,7 @@ Reproduzindo o treino, os números devem bater exatamente com os do notebook:
 streamlit run app.py
 ```
 
+
 A aplicação permite explorar a base, ver o desempenho do modelo final (MAE, RMSE e R²) e gerar
 previsões de vendas globais a partir de valores informados pelo usuário para nota da crítica,
 nota dos usuários, número de avaliações e gênero.
